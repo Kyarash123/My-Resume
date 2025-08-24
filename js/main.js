@@ -20,7 +20,7 @@ const translations = {
         leadershipSkill: "رهبری و سرپرستی",
         adaptabilitySkill: "انعطاف‌پذیری",
         communicationSkill: "ارتباط مؤثر",
-        computerSkill: "تسلط کامپیوتری",
+        computerSkill: "تسلط موثر با هوش مصنوعی",
         projectsTitle: "پروژه‌های من",
         project1Title: "سایت Finsweet",
         project1Desc: "طراحی در ۸ ساعت - چالش دوستانه",
@@ -59,7 +59,7 @@ const translations = {
         leadershipSkill: "Leadership & Team Management",
         adaptabilitySkill: "Adaptability",
         communicationSkill: "Effective Communication",
-        computerSkill: "Computer Proficiency",
+        computerSkill: "AI Proficiency",
         projectsTitle: "My Projects",
         project1Title: "Finsweet Website",
         project1Desc: "Designed in 8 hours - Friendly challenge",
@@ -228,3 +228,4 @@ const translations = {
         });
 
 (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9733cbd051d25012',t:'MTc1NTg4MDY2MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+
