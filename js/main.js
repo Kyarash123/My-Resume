@@ -13,7 +13,7 @@ const translations = {
         projectsBtn: "مشاهده پروژه‌ها",
         skillsTitle: "مهارت‌های من",
         techSkillsTitle: "مهارت‌های فنی",
-        softSkillsTitle: "مهارت‌های نرم",
+        softSkillsTitle: "مهارت‌های نرم + تکمیلی",
         learningSkill: "یادگیری مداوم",
         teamworkSkill: "روحیه کار تیمی",
         negotiationSkill: "توان مذاکره",
@@ -52,7 +52,7 @@ const translations = {
         projectsBtn: "View Projects",
         skillsTitle: "My Skills",
         techSkillsTitle: "Technical Skills",
-        softSkillsTitle: "Soft Skills",
+        softSkillsTitle: "Soft Skills & Complementary Skills",
         learningSkill: "Continuous Learning",
         teamworkSkill: "Teamwork",
         negotiationSkill: "Negotiation",
@@ -226,4 +226,5 @@ const translations = {
         document.querySelectorAll('.animate-on-scroll').forEach((el, index) => {
             el.style.transitionDelay = `${index * 0.1}s`;
         });
+
 (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9733cbd051d25012',t:'MTc1NTg4MDY2MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
